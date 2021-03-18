@@ -1,0 +1,5 @@
+pip install django 
+django-admin startproject PROJECT_NAME
+python manage.py runserver #chequear si me esta funcionando
+ctrl C para cerrar el server
+python manage.py startapp APP_NAME
